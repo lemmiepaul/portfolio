@@ -9,14 +9,16 @@ function App() {
         <p>
           Hi, My name is <span>Lemmie Paul</span>
         </p>
+        <button>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="c:\Users\Stephen Nsubuga\OneDrive\Desktop\Galimaka Lemmie Paul\Curriculum vitae.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Download CV
         </a>
+        </button>
       </header>
     </div>
   );

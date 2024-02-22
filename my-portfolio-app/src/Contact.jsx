@@ -6,7 +6,7 @@ function Contact(){
         <>
         
         
-        0
+        
         </>
     );
 }
